@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tote-ibc-barcode-v2';
+const CACHE_NAME = 'tote-ibc-barcode-v3';
 const APP_SHELL = [
   './index.html',
   './manifest.json',
